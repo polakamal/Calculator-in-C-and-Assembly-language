@@ -1,2 +1,2 @@
 # Calculator-in-C-and-Assembly-language
-making Calculator in C and Assembly 
+program to simulate Full Calculator. The calculator is able to perform all basic operations (add, subtract, multiply, division, power, factorization, maximum, minimum) based on user selection for any group of numbers. The calculator has ability to store all the previous operations and list them when needed on the same order of operations executed (Main Procedure + one for each basic operation + List operation results Module)
